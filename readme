@@ -1,0 +1,1 @@
+Em diversos problemas envolvendo I.A com uma grande quantidade de volume de dados nos deparamos com um problema de desbalanceamento de classes, conhecido como a maldição da dimensionalidade. Porém com o avanço das mineração de dados, pode ser afirmado de forma satisfatória que há como resolver esse problema de desequilíbrio que afeta significativamente a precisão do modelo.
